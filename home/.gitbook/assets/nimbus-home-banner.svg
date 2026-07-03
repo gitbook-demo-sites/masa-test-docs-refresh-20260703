@@ -23,5 +23,12 @@
   <path d="M1090 141c0-24 19-43 43-43h140c25 0 46-20 46-46" fill="none" stroke="#2563EB" stroke-width="22" stroke-linecap="round"/>
   <path d="M873 390h460" stroke="#E0F2FE" stroke-width="22" stroke-linecap="round" opacity="0.65"/>
   <path d="M873 438h332" stroke="#BAE6FD" stroke-width="22" stroke-linecap="round" opacity="0.72"/>
+  <g aria-label="Nimbus Docs">
+    <rect x="828" y="252" width="420" height="98" rx="32" fill="#0F172A" opacity="0.82"/>
+    <rect x="866" y="273" width="56" height="56" rx="14" fill="#E0F2FE"/>
+    <path d="M880 306c0-5 4-9 9-9 1.5 0 2.9.4 4.2 1.1 2.1-5.9 7.6-10.1 14.1-10.1 7.3 0 13.3 6 13.3 13.3s-6 13.3-13.3 13.3H887c-3.9 0-7-3.1-7-7Z" fill="#2563EB"/>
+    <path d="M885 305.7c0-2.3 1.9-4.2 4.2-4.2h19c2.6 0 4.7-2.1 4.7-4.7" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+    <text x="946" y="314" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="750">Nimbus</text>
+    <text x="1152" y="314" fill="#BAE6FD" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="650">docs</text>
+  </g>
 </svg>
-
