@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-label="Nimbus documentation banner">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1600" y1="0" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#E0F2FE" stop-opacity="0.78"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <circle cx="1330" cy="105" r="210" fill="#22D3EE" opacity="0.16"/>
+  <circle cx="185" cy="420" r="190" fill="#F59E0B" opacity="0.16"/>
+  <rect x="170" y="86" width="510" height="312" rx="28" fill="url(#card)" opacity="0.96"/>
+  <rect x="215" y="137" width="270" height="22" rx="11" fill="#2563EB"/>
+  <rect x="215" y="185" width="390" height="18" rx="9" fill="#CBD5E1"/>
+  <rect x="215" y="225" width="340" height="18" rx="9" fill="#CBD5E1"/>
+  <rect x="215" y="287" width="160" height="48" rx="24" fill="#0F172A"/>
+  <rect x="405" y="287" width="130" height="48" rx="24" fill="#DBEAFE"/>
+  <path d="M1040 143c0-51 41-92 92-92 15 0 29 3.6 41.5 10.1C1192.6 27.1 1229 4 1271 4c67.4 0 122 54.6 122 122s-54.6 122-122 122h-202c-45 0-81-36-81-81Z" fill="#FFFFFF" opacity="0.95"/>
+  <path d="M1090 141c0-24 19-43 43-43h140c25 0 46-20 46-46" fill="none" stroke="#2563EB" stroke-width="22" stroke-linecap="round"/>
+  <path d="M873 390h460" stroke="#E0F2FE" stroke-width="22" stroke-linecap="round" opacity="0.65"/>
+  <path d="M873 438h332" stroke="#BAE6FD" stroke-width="22" stroke-linecap="round" opacity="0.72"/>
+</svg>
+
